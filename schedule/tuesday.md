@@ -12,8 +12,8 @@
   * What happens if you check out master (`git checkout master`)? Is the new file there?
   * At the end of night we'll merge the new feature branch back into master
   * Make sure you check out the new branch (`git checkout feature/tuesday`) before continuing
-* 6:15pm - Command Line: Quick Intro to vi
-* 6:30pm - [Command Line: Aliases](/resources/bash_aliases.md)
+* 6:15pm - Command Line: [Quick Intro to vi](/resources/vi_cheat_sheet.md)
+* 6:30pm - Command Line: [Bash Aliases](/resources/bash_aliases.md)
 * 7:00pm - Prework (you should be at least 40% complete by the end of class)
 * 8:15pm - Git: Merging Branches
   * Commit your changes:
