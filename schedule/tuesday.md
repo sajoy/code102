@@ -3,7 +3,7 @@
 * 6:00pm - Git: Branching
   * Did you push your code last night?
   * Create a new branch:
-    * `git checkout -b feature/tuesday`
+    * `git checkout -b tuesday`
   * Add a new file: notes/tuesday.md
     * Create the file in Atom, or from the command line with `touch notes/tuesday.md`
     * Add to your repo *before* you add any content:
@@ -21,7 +21,7 @@
     * `git commit -m "Add Tuesday notes"`
   * Merge the feature branch into master:
     * `git checkout master`
-    * `git merge feature/tuesday`
+    * `git merge tuesday`
   * Push your changes:
     * `git push origin master` (now you understand what `master` means... tomorrow you'll understand `origin`)
 * 8:40pm - Recap, Q&A
