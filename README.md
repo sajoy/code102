@@ -1,4 +1,4 @@
-# Code 102: Fundamentals of Code
+# Code 102: Fundamentals of Code - asdfasfd
 
 Welcome to Code 102! We're going to spend five nights covering the essentials of JavaScript, Git and the command line. By the end of this week you'll have leveled up your development skills -- whether you're heading into the 201, testing into the 301, or just trying to get a head start on self-study.
 
@@ -11,11 +11,11 @@ Welcome to Code 102! We're going to spend five nights covering the essentials of
 
 ## Resources
 * Keyboard Shortcuts
- * [Mac](http://www.danrodney.com/mac/)
- * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)
+  * [Mac](http://www.danrodney.com/mac/)
+  * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)
 * Text Editors
- * [The Basics of vi](http://www.bsdguides.org/2004/the-basics-of-vi/)
- * [The Basics of nano](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
+  * [The Basics of vi](http://www.bsdguides.org/2004/the-basics-of-vi/)
+  * [The Basics of nano](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
 * Visual Studio Code
   * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
   * [VS Code Key Bindings](http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/)
