@@ -1,7 +1,7 @@
 # Thursday
 
 * 6:00pm - Git: Pull Request Prep
-  * Create a `feature/thursday` branch
+  * Create a `thursday` branch
   * Tonight we're going to do things a little bit differently
   * Create a notes/thursday-yourgitusername.md file and add it to the repo (e.g. `notes/thursday-bethadele.md`)
   * Take notes in this file through the evening
