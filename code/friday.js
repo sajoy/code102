@@ -2,10 +2,10 @@
 // After each TODO, once you get the code working, stop and add/commit
 // your changes to your repository.
 
-// TODO: Copy in your completed code from Wednesday.
+// TODO: Copy in your completed code from Thursday.
 
 // TODO: Refactor all the code into a single big function
-//       called dayApp().
+//       called dayApp(). Be sure to work incrementally!
 
 // TODO: What happens if you reload the page now?
 
@@ -15,7 +15,7 @@
 // TODO: Refactor the math that gets a random day number
 //       into a function called getDayNumber().
 
-// TODO: Refactor the if/elseif/else block that comments
+// TODO: Refactor the if/else if/else block that comments
 //       on each day into this function:
 function remarkOnDay(day) {
 

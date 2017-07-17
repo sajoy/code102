@@ -1,7 +1,7 @@
 var day = 'Thursday',
     thursday = 'thursday';
 
-// How many equals signs does it take to screw your code?
+// How many equals signs does it take to muck up your code?
 if (day = 'thursday') {
   console.log('Test 1: Well lookee there, it\'s ' + day);
 }
