@@ -15,8 +15,9 @@
     * `git checkout -b wednesday`
     * Add a new file: `touch notes/wednesday.md`
   * For bonus points, experiment with [markdown styling](https://guides.github.com/features/mastering-markdown/)
-* 6:30pm - Command Line: SSH Keys
 * 7:00pm - Prework (you should be at least 60% complete by the end of class)
-* 8:30pm - Recap, Q&A
+  * Optional Command Line Bonus: [SSH Keys for Git](https://help.github.com/articles/connecting-to-github-with-ssh/)
+  * Optional JavaScript Bonus: [The Evolution of an IIFE](https://gist.github.com/bethadele/85621c52d9c454fdd258ec67e4279ea2)
+* 8:45pm - Recap, Q&A
 
 [Back to main README](/README.md) | [Thursday](/schedule/thursday.md)

@@ -18,7 +18,6 @@
   * How to resolve a merge conflict
 * 6:30pm - JavaScript: Functions & console.log
   * Use [code/friday.html](/code/friday.html) and [code/friday.js](/code/friday.js)
-  * Want to play with other forms of functions? Check out this [gist on the evolution of an IIFE](https://gist.github.com/bethadele/85621c52d9c454fdd258ec67e4279ea2)
 * 7:15pm - Prework (you should be 100% complete by the end of class)
 * 8:30pm - Recap, Q&A
 
