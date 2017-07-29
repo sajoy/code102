@@ -17,8 +17,8 @@ move your cursor using the `j` and `k` keys to the line with `two`, then press `
 * four
 
 #### Find, delete and add text at cursor 
-position the cursor at `East` by typing `/East` and pressing enter.  Press `n` until you're at the incorrect word. Delete the word by typing `dw`.  Then press `i` and enter the proper descriptor.
+position the cursor at `West` by typing `/West` and pressing enter.  Press `n` until you're at the incorrect word. Delete the word by typing `dw`.  Then press `i` and enter the proper descriptor.
 
-Code Fellows PDX is located on the East side of the river.
+Code Fellows PDX is located on the West side of the river.
 
 #### 
